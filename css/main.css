@@ -1,0 +1,11 @@
+p{
+	background-color:white;
+	text-align: center;
+	border:1px dashed black;
+}
+div{
+	background-color: pink;
+	padding: 5px 10px;
+	border: 20px solid purple;
+	margin:20px 10px 30px 20px;
+}
